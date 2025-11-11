@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "min_version": "1.0.0",
   "message": "All systems operational",
   "status_url": "https://github.com/EternalFlower25/EF-Roblox-Multi-Instance",
